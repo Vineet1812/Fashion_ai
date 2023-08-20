@@ -7,5 +7,5 @@
  
  <p align="center">
  Check the site at the below link:- <br> 
-   https://singh-shivani.github.io/Merlin-Fashion/
+   https://vineet1812.github.io/Fashion_ai/
 </p>
